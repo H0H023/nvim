@@ -76,7 +76,7 @@ nnoremap <leader>n :bn<CR>
 let g:airline_theme='base16'
 
 " Setting for dracula.nvim
-colorscheme dracula
+colorscheme carbonfox
 
 " Setting for vim-gitgutter
 highlight clear SignColumn
