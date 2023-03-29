@@ -13,7 +13,7 @@ sudo snap install --beta nvim --classic
 ### 2. Git repo clone
 
 ```bash
-git clone https://github.com/Jay-flow/nvim.git ~/.config/nvim
+git clone https://github.com/H0H023/nvim.git ~/.config/nvim
 ```
 
 ### 3. Plug Install
