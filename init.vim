@@ -34,6 +34,12 @@ Plug 'iamcco/coc-flutter'
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
 
+" Go
+Plug 'josa42/coc-go'
+
+" Rust
+Plug 'fannheyward/coc-rust-analyzer'
+
 call plug#end()
 
 " Setting for Vim
